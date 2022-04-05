@@ -1,4 +1,4 @@
-import { MainLayout } from '../src/layout/main-layout';
+import { MainLayout } from '../components/Layout/main-layout';
 
 export default function IndexPage() {
   return (

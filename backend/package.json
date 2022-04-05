@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "cross-env NODE_ENV=DEVELOPMENT PORT=4000 keystone dev",
+    "dev": "keystone dev",
     "start": "keystone start",
     "build": "keystone build",
     "postinstall": "keystone postinstall"

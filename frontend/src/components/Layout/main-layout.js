@@ -1,8 +1,8 @@
 import Head from 'next/head';
 import * as React from 'react';
 
-import { Header } from '../components/header';
-import { Footer } from '../components/footer';
+import { Header } from '../Header/Header';
+import { Footer } from '../Footer/Footer';
 
 export const MainLayout = () => {
     return (

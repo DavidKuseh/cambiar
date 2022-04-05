@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import * as React from 'react';
 
-import { Nav } from './nav';
+import { Nav } from '../Navbar/Navbar';
 
 export function Header() {
     return (
